@@ -6,10 +6,10 @@
     <a href="https://xuanvu.ttperfume.vn" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-xuanvu.ttperfume.vn-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="mailto:your.email@gmail.com">
+    <a href="mailto:lexuanvu2608.email@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <a href="https://www.linkedin.com/in/l%C3%AA-xu%C3%A2n-v%C5%A9-5918a4287/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
